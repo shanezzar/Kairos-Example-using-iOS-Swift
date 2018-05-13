@@ -32,12 +32,15 @@ Get app\_id and app\_key from:
 
 [https://developer.kairos.com/signup](https://developer.kairos.com/signup)
 
+<br>
+
+# Sample recognized:
 ![img_3c58706adf8e-1](https://user-images.githubusercontent.com/35195398/39970552-ce181eb8-5706-11e8-8530-2065d84712df.jpeg)
 
 
 <br>
 
 Thanks, <br>
-[Shanezzar][1]
+[Shanezzar!][1]
 
 [1]: https://shanezzar.com
